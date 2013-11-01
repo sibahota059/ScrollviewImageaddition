@@ -14,5 +14,7 @@ the following line to remove a picture.
 [self DeleteImageAtindex:x]; // where x is the index value in int.
 
 
-![Alt text](https://github.com/sibahota059/ScrollviewImageaddition/blob/master/Screen1.png "Screen in landscape")
-![Alt text](https://github.com/sibahota059/ScrollviewImageaddition/blob/master/Screen2.png "Screen in Portrait")
+![Screen in landscape](/Screen1.png)
+
+
+![Screen in Portrait](/Screen2.png)
