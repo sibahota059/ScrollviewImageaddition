@@ -12,3 +12,7 @@ Just add the following line to add a picture.
 the following line to remove a picture.
 
 [self DeleteImageAtindex:x]; // where x is the index value in int.
+
+
+![Alt text](https://github.com/sibahota059/ScrollviewImageaddition/blob/master/Screen1.png "Screen in landscape")
+![Alt text](https://github.com/sibahota059/ScrollviewImageaddition/blob/master/Screen2.png "Screen in Portrait")
